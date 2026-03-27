@@ -30,14 +30,14 @@
 
 I'm an **AI Engineer** obsessed with building intelligent systems that actually work in the real world. From designing **RAG pipelines** and **AI agents** to deploying **LLM-powered APIs**, I bridge the gap between cutting-edge research and production-ready software.
 
-```python
-class SahilTrivedi:
-    role        = "AI Engineer & Generative AI Architect"
-    focus       = ["LLMs", "RAG Systems", "AI Agents", "MLOps"]
-    frameworks  = ["LangChain", "n8n", "FastAPI", "TensorFlow", "scikit-learn"]
-    cloud       = ["Azure", "Azure AI Studio", "Azure OpenAI"]
-    databases   = ["PostgreSQL", "Redis", "Vector DBs"]
-    mantra      = "Build smart. Deploy fast. Scale intelligently."
+```
+🧠 Role          →  AI Engineer & Generative AI Architect
+⚒️  Building      →  Agentic RAG Systems · LangChain Pipelines · n8n Workflows
+🔭 Exploring     →  Multi-agent Systems · LLM Evaluation · Prompt Compression
+💡 Experimenting →  Vector DBs · Tool Calling · Retrieval Optimization
+🤝 Open To       →  AI Collaborations · Freelance Projects · Research
+📍 Based In      →  India
+⚡ Fun Fact      →  I automate my automation workflows
 ```
 
 ---
@@ -56,13 +56,18 @@ class SahilTrivedi:
 
 ## 💻 Tech Stack
 
-### 🤖 AI / ML Core
+### 🤖 AI / ML & Frameworks
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🗄️ Databases & Storage
+![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -76,14 +81,14 @@ class SahilTrivedi:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sahil946141&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil946141&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sahil946141&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil946141&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sahil946141&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil946141&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 

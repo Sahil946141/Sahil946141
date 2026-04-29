@@ -46,7 +46,7 @@ I'm an **AI Engineer** obsessed with building intelligent systems that actually 
 
 | Domain | Focus Areas |
 |---|---|
-| 🤖 **Generative AI** | LLM fine-tuning, prompt engineering, multi-modal systems | RAG 
+| 🤖 **Generative AI** | LLM fine-tuning, prompt engineering, multi-modal systems,RAG |
 | 🔗 **LangChain** | Chains, agents, memory, tools & custom retrievers |
 | ⚙️ **n8n Automation** | AI workflow automation, API orchestration, no-code pipelines |
 | 📚 **RAG Systems** | Vector search, hybrid retrieval, document intelligence |
